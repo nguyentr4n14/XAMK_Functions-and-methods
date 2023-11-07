@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.AssemblyInfo.cs
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.exe
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.deps.json
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.runtimeconfig.json
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\bin\Debug\net6.0\BasicCalculatorAssignment.pdb
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\refint\BasicCalculatorAssignment.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.pdb
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\BasicCalculatorAssignment.genruntimeconfig.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\BasicCalculatorAssignment-master\BasicCalculatorAssignment\obj\Debug\net6.0\ref\BasicCalculatorAssignment.dll
